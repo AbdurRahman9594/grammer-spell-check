@@ -23,4 +23,6 @@ WARNING: This is a development server. Do not use it in a production deployment.
 The above commands will work properly.
 If then too, the error occurs, then try installing this Java JDK: https://www.oracle.com/java/technologies/downloads/#jdk21-windows
 
+References: https://packaging.python.org/en/latest/tutorials/installing-packages/
+
 
