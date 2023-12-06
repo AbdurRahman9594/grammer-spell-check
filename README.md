@@ -6,12 +6,16 @@ Note: Please refer to the "Folder photo".
 
 To install packages, run the below commands as shown in the terminal:
 pip install language-tool-python
+
 pip install Flask
+
 pip install textblob
 
 Now, when you run the app.py file, you will get an error as "No module named distutils". This means that Python pip, setuptools, and wheel are not up-to-date. So, please run the below commands:
 py -m pip --version
+
 py -m ensurepip --default-pip
+
 py -m pip install --upgrade pip setuptools wheel
 
 Then in the terminal, the Flask app will start and you will get a localhost server link as shown below. Then you need to click on it and then the app will start.
