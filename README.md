@@ -3,6 +3,10 @@ In the YouTubers project, the Gingerit module is no longer available. Therefore,
 
 https://www.java.com/en/download/manual.jsp
 
+Also, install python in your laptop/computer through this link below, to avoid any errors and also, install the python extension in VS code:
+
+https://www.python.org/downloads/
+
 Also, please create a "templates" folder, inside which you should paste the index.html file. Then only the render_template will work perfectly.
 Note: Please refer to the "Folder photo".
 
@@ -34,5 +38,6 @@ If then too, the error occurs, then try installing this Java JDK: https://www.or
 References: https://packaging.python.org/en/latest/tutorials/installing-packages/
 
 For any help, contact me through the YouTube comments section.
+Thank you. 
 
 
