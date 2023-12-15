@@ -30,7 +30,7 @@ py -m ensurepip --default-pip
 
 py -m pip install --upgrade pip setuptools wheel
 
-Then in the terminal, the Flask app will start and you will get a localhost server link as shown below. Then you need to click on it and then the app will start.
+Then in the terminal, once again LanguageTool will get downloaded of size 225M and immediately, the Flask app will start and you will get a localhost server link as shown below. Then you need to click on it and then the app will start.
 Serving Flask app 'app'
  * Debug mode: off
 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
