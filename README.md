@@ -1,9 +1,9 @@
 # grammer-spell-check
-In the YouTubers project, the Gingerit module is no longer available. Therefore, I have used Language Tool, instead of Gingerit. Therefore, when you copy this code and paste it into VS code or any other Code editor, then first install the packages using pip install package_name in the Terminal and then run the code. Please don't directly run the code. Also, to use the Language Tool module, you need Java to be installed on your laptop/computer. So, please refer to the link here to download Java.
+In the YouTubers project, the Gingerit module is no longer available. Therefore, I have used Language Tool, instead of Gingerit. Therefore, when you copy this code and paste it into VS code or any other Code editor, then first install the packages using pip install package_name in the Terminal and then run the code. Please don't directly run the code. Also, to use the Language Tool module, you need Java to be installed on your laptop/computer. So, please refer to the link here to download Java. Choose the Windows Offline (64-bit) file to download.
 
 https://www.java.com/en/download/manual.jsp
 
-Also, install python in your laptop/computer through this link below, to avoid any errors and also, install the python extension in VS code:
+Also, install Python in your laptop/computer through this link below, to avoid any errors, and install the Python extension in VS code. Make sure the Python version is 3.12.1 (latest)
 
 https://www.python.org/downloads/
 
@@ -32,12 +32,9 @@ Serving Flask app 'app'
 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
  * Running on http://127.0.0.1:5000
 
-The above commands will work properly.
-If then too, the error occurs, then try installing this Java JDK: https://www.oracle.com/java/technologies/downloads/#jdk21-windows
-
 References: https://packaging.python.org/en/latest/tutorials/installing-packages/
 
-For any help, contact me through the YouTube comments section.
+For any help, contact me through the YouTube comments section or email me at abdurahman.5july@gmail.com
 Thank you. 
 
 
