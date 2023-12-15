@@ -1,9 +1,13 @@
 # grammer-spell-check
-In the YouTubers project, the Gingerit module is no longer available. Therefore, I have used Language Tool, instead of Gingerit. Therefore, when you copy this code and paste it into VS code or any other Code editor, then first install the packages using pip install package_name in the Terminal and then run the code. Please don't directly run the code. Also, to use the Language Tool module, you need Java to be installed on your laptop/computer. So, please refer to the link here to download Java. Choose the Windows Offline (64-bit) file to download.
+In the YouTubers project, the Gingerit module is no longer available. Therefore, I have used Language Tool, instead of Gingerit. Therefore, when you copy this code and paste it into VS code or any other Code editor, then first install the packages using pip install package_name in the Terminal and then run the code. Please don't directly run the code. Also, to use the Language Tool module, you need Java to be installed on your laptop/computer. So, please refer to the link here to download Java. 
+
+Choose the Windows Offline (64-bit) file to download.
 
 https://www.java.com/en/download/manual.jsp
 
-Also, install Python in your laptop/computer through this link below, to avoid any errors, and install the Python extension in VS code. Make sure the Python version is 3.12.1 (latest)
+Also, install Python in your laptop/computer through this link below, to avoid any errors, and install the Python extension in VS code. 
+
+Make sure the Python version is 3.12.1 (latest)
 
 https://www.python.org/downloads/
 
