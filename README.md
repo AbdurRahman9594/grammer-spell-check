@@ -5,7 +5,7 @@ Choose the Windows Offline (64-bit) file to download.
 
 https://www.java.com/en/download/manual.jsp
 
-Also, install Python in your laptop/computer through this link below, to avoid any errors, and install the Python extension in VS code. 
+Also, install Python 3.12.1 (latest) on your laptop/computer through the link below. 
 
 Make sure the Python version is 3.12.1 (latest)
 
